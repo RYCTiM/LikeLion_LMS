@@ -1,9 +1,10 @@
 ### To do list: LMS 페이지 Rebooting
 
 
+To do:
 
-Clone 해올 것: HTML, CSS
+나중에 물류사에 취업을 대비해 데이터 베이스를 구축하는 것을 복습
 
-만들 것: JS코드, SQL데이터베이스(멤버 까지만?), Spring까지
+ERD 구축 및 MySQL을 이용해 LMS의 데이터베이스를 재구축
 
 
